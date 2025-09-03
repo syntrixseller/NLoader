@@ -235,13 +235,12 @@ This project is licensed under the **Educational Use Only License** - see [LICEN
 
 If you need help or have questions:
 
-1. Check the [Wiki](https://github.com/yourusername/python-loader-9000/wiki)
-2. Open an [Issue](https://github.com/yourusername/python-loader-9000/issues)
-3. Join our [Discord](https://discord.gg/your-invite-link)
+1. Check the [Wiki](https://github.com/syntrixseller/NLoader/wiki)
+2. Open an [Issue](https://github.com/syntrixseller/NLoader/issues)
 
 ## ⭐ STAR HISTORY
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/python-loader-9000&type=Date)](https://star-history.com/#yourusername/python-loader-9000&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=syntrixseller/NLoader&type=Date)](https://star-history.com/#syntrixseller/NLoader&Date)
 
 ---
 
